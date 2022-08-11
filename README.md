@@ -52,8 +52,4 @@ We aim to deliver a blockchain platform that provides users with superior speed,
 
 **2. Where can I learn more about XTRABYTES?**
    - [Website](https://xtrabytes.global/)
-   - [Discord](https://discord.xtrabytes.global)
-   - [Help Center](http://support.xtrabytes.global)
-   - [Whitepaper](https://xtrabytes.global/whitepaper.pdf)
-   - [Forum](https://community.xtrabytes.global)
    
