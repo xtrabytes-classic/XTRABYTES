@@ -25,7 +25,7 @@ CLASSIC
 XTRABYTES CLASSIC - The Proof of Signature Blockchain Platform
 
 
-XTRABYTES CLASSIC is a invented blockchain infrastructure that does not require any traditional type of mining support, such as: POW or POS. We have created something called Proof of Signature which ensures that 100% of all blocks will be signed by the system when they occur. The blocks are signed by the network of Master Nodes after verifying the transactions in the block. There are a total of 650 million XBY and there will never be more. 
+XTRABYTES CLASSIC is a invented blockchain infrastructure that does not require any traditional type of mining support, such as: POW or POS. We have created something called Proof of Signature which ensures that 100% of all blocks will be signed by the system when they occur. The blocks are signed by the network of Master Nodes after verifying the transactions in the block. There are a total of 650 million XBYC and there will never be more. 
 
 # Our mission
 
