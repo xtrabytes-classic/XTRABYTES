@@ -29,7 +29,7 @@ XTRABYTES CLASSIC is a invented blockchain infrastructure that does not require 
 
 # Our mission
 
-We aim to deliver a blockchain platform that provides users with superior speed, security, and scalability over present blockchain offerings. In order to do so, we have crafted a unique Proof of Signature consensus algorithm that obtains these benefits in an economical and eco-friendly manner. Moreover, our platform’s modular nature allows users to assume an infinite capacity for growth. And with modularity driving our development pipeline, we have instituted enhanced usability for programmers and end-users alike. This includes code-agnostic APIs, superior technical support, and best-in-class user interfaces. All to achieve our vision of having users and developers view XTRABYTES CLASSIC as the premier blockchain platform within the cryptocurrency world.
+We aim to deliver a blockchain platform that provides users with superior speed, security, and scalability over present blockchain offerings. In order to do so, we have crafted a unique Proof of Signature consensus algorithm that obtains these benefits in an economical and eco-friendly manner. Moreover, our platform’s modular nature allows users to assume an infinite capacity for growth. And with modularity driving our development pipeline, we have instituted enhanced usability for programmers and end-users alike. This includes code-agnostic APIs, superior technical support, and best-in-class user interfaces. All to achieve our vision of having users and developers view XTRABYTES CLASSIC as the second premier blockchain platform within the cryptocurrency world.
 
  - Deliver high quality software solutions.
  
