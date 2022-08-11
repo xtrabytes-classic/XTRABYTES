@@ -20,7 +20,7 @@ CLASSIC
   </h3>
 </div>
 
-# X T R A B Y T E S C L A S S I C
+# X T R A B Y T E S   C L A S S I C
 
 XTRABYTES CLASSIC - The Proof of Signature Blockchain Platform
 
